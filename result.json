@@ -1,0 +1,82 @@
+[
+    {
+        "Id": 1,
+        "Name": "Johan Liebert",
+        "TotalMark": 60,
+        "TrustScore": 55,
+        "Status": "Fail(Cheating)",
+        "Date": "2024-11-11",
+        "StId": 1,
+        "Link": "John Smith_003Profile.jpg"
+    },
+    {
+        "Id": 2,
+        "Name": "Robert Taylor",
+        "TotalMark": 33,
+        "TrustScore": 100.0,
+        "Status": "Fail",
+        "Date": "2024-11-10",
+        "StId": 8,
+        "Link": "Robert Taylor_002Profile.jpg"
+    },
+    {
+        "Id": 3,
+        "Name": "John Smith",
+        "TotalMark": 13,
+        "TrustScore": 100.0,
+        "Status": "Fail",
+        "Date": "2024-11-10",
+        "StId": 2,
+        "Link": "John Smith_003Profile.jpg"
+    },
+    {
+        "Id": 4,
+        "Name": "Emma Wilson",
+        "TotalMark": 20,
+        "TrustScore": 100.0,
+        "Status": "Fail",
+        "Date": "2024-11-10",
+        "StId": 3,
+        "Link": "Emma Wilson_004Profile.jpg"
+    },
+    {
+        "Id": 5,
+        "Name": "John Smith",
+        "TotalMark": 40,
+        "TrustScore": 45.0,
+        "Status": "Fail(Cheating)",
+        "Date": "2024-11-18",
+        "StId": 2,
+        "Link": "John Smith_005Profile.jpg"
+    },
+    {
+        "Id": 6,
+        "Name": "William White",
+        "TotalMark": 53,
+        "TrustScore": 73.0,
+        "Status": "Pass",
+        "Date": "2024-11-18",
+        "StId": 10,
+        "Link": "William White_006Profile.jpg"
+    },
+    {
+        "Id": 7,
+        "Name": "William White",
+        "TotalMark": 40,
+        "TrustScore": 100.0,
+        "Status": "Fail",
+        "Date": "2024-11-19",
+        "StId": 10,
+        "Link": "William White_007Profile.jpg"
+    },
+    {
+        "Id": 8,
+        "Name": "William White",
+        "TotalMark": 20,
+        "TrustScore": 89.0,
+        "Status": "Fail",
+        "Date": "2024-11-19",
+        "StId": 10,
+        "Link": "William White_008Profile.jpg"
+    }
+]

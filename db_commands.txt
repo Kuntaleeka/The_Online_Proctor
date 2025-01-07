@@ -1,0 +1,29 @@
+-- Create the database
+CREATE DATABASE IF NOT EXISTS examproctordb;
+USE examproctordb;
+
+-- Create students table
+CREATE TABLE students (
+    ID INT PRIMARY KEY AUTO_INCREMENT,
+    Name VARCHAR(255) NOT NULL,
+    Email VARCHAR(255) NOT NULL,
+    Password VARCHAR(255) NOT NULL,
+    Role VARCHAR(50) NOT NULL DEFAULT 'STUDENT'
+);
+
+-- Insert admin user for testing
+INSERT INTO students (Name, Email, Password, Role) 
+VALUES ('Admin', 'admin@example.com', 'admin123', 'ADMIN');
+
+SELECT * FROM students;
+
+{
+        "Id": 1,
+        "Name": "Johan Liebert",
+        "TotalMark": 60,
+        "TrustScore": 55,
+        "Status": "Fail(Cheating)",
+        "Date": "2024-11-11",
+        "StId": 1,
+        "Link": "John Smith_003Profile.jpg"
+    },
